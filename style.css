@@ -1,0 +1,108 @@
+body{
+    width: 100%;
+    min-width: 900px;
+}
+
+h2 {
+    font-family: "Madimi One", sans-serif;
+    color: rgb(64, 50, 38);
+}
+
+.nav {
+    font-family: "Madimi One", sans-serif;
+    height: 60px;
+    text-align: center;
+    font-size: 22px;
+    margin: 15px;
+    color: rgb(51, 40, 29);
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.slash {  
+    width: 1%;
+    margin: 10px;
+}
+
+.home, .diet, .habitat {
+    width: 17%;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.home {
+    background-color: rgb(225, 147, 167);
+}
+
+.diet {   
+    background-color: rgb(149, 194, 228);
+}
+
+.habitat {   
+    background-color: rgb(149, 194, 228);
+}
+
+.wholepage {
+    font-family: "Open Sans", sans-serif;
+    display: flex;
+}
+
+.left .top {
+    background-color: rgb(207, 234, 253);
+    padding: 20px;
+    margin: 20px;
+}
+.left .top h2 {
+    margin-top: 0px;
+}
+
+.left .bottom {
+    border: 0.5px dashed rgb(51, 43, 31);
+    border-radius: 5px;
+    padding-bottom: 20px;
+    margin: 20px;
+}
+
+.left .bottom h2 {
+    text-align: center;
+}
+
+.left .bottom p {
+    padding-left: 20px;
+    text-align: left;
+    margin-top: 20px;
+}
+
+.right {
+    height: 732px;
+    display: flex;
+    flex-direction: column;
+    border: 0.5px solid black;
+    margin: 20px;
+}
+
+.right .top .p2 h2 {
+    margin-bottom: -10px;
+}
+
+.right .top .p2 p {
+    margin: 20px;
+}
+
+.right .top .p1 {
+    float: left;
+    padding: 20px;
+    padding-bottom: 0px;
+}
+
+.right .bottom {
+    padding: 20px;
+}
+
+
+
+
+
+
