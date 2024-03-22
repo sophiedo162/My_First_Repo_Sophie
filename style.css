@@ -1,6 +1,5 @@
 body{
     width: 100%;
-    min-width: 900px;
 }
 
 h2 {
@@ -84,6 +83,7 @@ h2 {
 }
 
 .right .top .p2 h2 {
+    padding-left: 20px;
     margin-bottom: -10px;
 }
 
